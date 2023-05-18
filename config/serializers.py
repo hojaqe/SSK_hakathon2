@@ -15,10 +15,10 @@ class RegistrationSerializers(serializers.Serializer):
 
 
 
-class RegistrationSerializers(serializers.ModelSerializer):
-    class Meta:
-        model = User
-        fields = "__all__"
+# class RegistrationSerializers(serializers.ModelSerializer):
+#     class Meta:
+#         model = User
+#         fields = "__all__"
 
 
 # class ActivationSerializer(serializers.ModelSerializer):

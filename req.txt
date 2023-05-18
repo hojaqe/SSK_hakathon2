@@ -5,4 +5,3 @@ python-decouple
 python-slugify
 Pillow
 django-filter
-
