@@ -20,5 +20,3 @@ class PostAdmin(admin.ModelAdmin):
     ordering = ['created_at']
     list_filter = ['category__title']
 
-
-

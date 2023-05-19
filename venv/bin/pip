@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/sukhrab/Рабочий стол/SSK_hakathon2/venv/bin/python3" "$0" "$@"
+'''exec' "/home/hoja/Рабочий стол/SSK_hakathon2/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
